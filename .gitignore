@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+data/
+errors/
+sprites_data/
+checkpoints/
+notebooks/
+.DS_Store
+.vscode/
+platonics_dataset/
+saved_results/
+equiv_lbls_reshaped.npy
+graph.py
+reprocess multispirtes.ipynb
+visualize.py
